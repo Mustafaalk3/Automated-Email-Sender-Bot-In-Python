@@ -2,7 +2,7 @@
 This Program Is Created To Send Motivational Quotes On Mondays Via Help Of `smtp` And `pandas` And It Usses SSL encryption that makes it secure. 
 
 # Changing The Day 
-If U Wanna Change the Day to Your Choice, Change Number 0 In This Line Of Code ```if today.weekday() == 0:```  
+If You Wanna Change the Day to Your Choice, Change Number 0 In This Line Of Code ```if today.weekday() == 0:```  
 According To The Numbers Day Rule  0 = Monday, 1 = Tuesday, 2 = Wednesday, 3 = Thursday, 4 = Friday, 5 = Saturday, 6 = Sunday
 
 # Running The Code
