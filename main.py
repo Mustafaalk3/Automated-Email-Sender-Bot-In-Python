@@ -7,7 +7,7 @@ from datetime import datetime
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 GMAIL_USER = "www.alkmustafa05@gmail.com"
-GMAIL_PASSWORD = "vckv uxku lllu lkha"
+GMAIL_PASSWORD = "YOUR-PASSWORD"
 
 def send_email(to_address, subject, message):
     try:
